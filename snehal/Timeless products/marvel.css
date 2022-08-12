@@ -1,0 +1,70 @@
+.rectangle1 {
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px 0 rgba(169, 169, 169, 0.3);
+    width:auto;
+    height:-10px;
+    
+    
+  }
+  .rectangle2{
+    background-color: #000000;
+    box-shadow: 0 2px 4px 0 rgba(169, 169, 169, 0.3);
+    width:auto;
+    height: 1035px;
+    
+  }
+  .center{
+    width:100px ;
+    
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .contact-us {
+    background-color: #FF5043;
+    color: #FFFFFF;
+    font-family: SFPro;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 19px;
+     width: 150px;
+    height:85px;
+   margin-left: 1420px;
+   padding-right: 10px;
+  position: absolute;
+  top: 0;
+  right: 0;
+    }
+    .timeless-products-g {
+        color: #FF5043;
+        font-family: Mont;
+        font-size: 80px;
+        letter-spacing: -1px;
+        line-height: 90px;
+        text-align: left;
+        padding-top: 150px;
+        padding-left: 100px;
+      }
+      .we-craft-outstanding-copy {
+        color: #FFFFFF;
+        font-family: SFProDisplay;
+        font-size: 24px;
+        line-height: 40px;
+        width: 772px;
+        text-align: left;
+        padding-left:100px ;
+      }
+      .discover-our-work {
+        color: #FFFFFF;
+        font-family: Mont;
+        font-size: 18px;
+        letter-spacing: 5.4px;
+        line-height: 22px;
+        text-align: left;
+        padding-left:100px ;
+      }
+      .rectangle {
+        background-image: url(https://marvel-live.freetls.fastly.net/canvas/2022/12/e894a8bb9c134825b2c1970bb906fd63?quality=95&fake=.png);
+        background-repeat: repeat;
+        width: 235px;
+        height: 55px;
+      }
